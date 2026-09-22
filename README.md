@@ -1,4 +1,4 @@
-# Pythoh-Slack-Bot
+# Python-Slack-Bot
 
 This project is a basic Slack bot, that posts messages to a channel called "content" from Twitter.<br/>
 The bot uses REST API to access Twitter and python library for slack to send slack messages.<br/>
